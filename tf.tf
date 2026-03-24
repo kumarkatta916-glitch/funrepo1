@@ -11,5 +11,5 @@ resource "azurerm_resource_group" "name" {
   location = "east asia"
   tags = {
     product="dev-env"
-    owner="kkkkk"
+    owner="kumar"
 }
