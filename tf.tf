@@ -12,4 +12,5 @@ resource "azurerm_resource_group" "name" {
   tags = {
     product="dev-env"
     owner="kiran"
+    owner="kumar"
 }
